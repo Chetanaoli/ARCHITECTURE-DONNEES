@@ -1,0 +1,7 @@
+{
+  "quiz": [
+    {"ques_id": 1, "ques_text": "What is 2 + 2?", "ans": "4"},
+    {"ques_id": 2, "ques_text": "Capital of France?", "ans": "Paris"},
+    {"ques_id": 3, "ques_text": "3 x 5?", "ans": "15"}
+  ]
+}
